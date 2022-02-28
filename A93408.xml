@@ -1,0 +1,210 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The last ioyfull newes from Ireland. Wherein is related, a most famous and victorious battell between the Protestants and the rebels, at Kilrush in the county of Kildare: at which place the English with 3000 foot and horse, valiantly set upon the enemies, being 12000 in number, killed neere upon 600 of them, tooke abundance of armes and ammunition from them, and brought 3 heads of their chiefe commanders to Dublin. Whereunto is added a letter sent from the Right Honourable Earle of Ormond and Offory, to his much honoured uncle, Sir Robert Poyntz, shewing the true estate of the Kingdome of Ireland at this present, received June 21. 1642. Also an order of both Houses of Parliament, whereby Captaine Burrell, Thomas Lloyd, Gentleman, Iohn Smith, and Francis Dowet of London, gentleman, are appointed and approved of, to be commissaries to inroll and value the horse and armes, to be raised according to the propositions. Iohn Browne Cleric. Parliament.</title>
+            <author>Smith, Samuel, Waggon master.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93408</idno>
+            <idno type="STC">Wing S4207</idno>
+            <idno type="STC">Thomason E152_8</idno>
+            <idno type="STC">ESTC R20537</idno>
+            <idno type="EEBO-CITATION">99864770</idno>
+            <idno type="PROQUEST">99864770</idno>
+            <idno type="VID">156786</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93408)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156786)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 27:E152[8])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The last ioyfull newes from Ireland. Wherein is related, a most famous and victorious battell between the Protestants and the rebels, at Kilrush in the county of Kildare: at which place the English with 3000 foot and horse, valiantly set upon the enemies, being 12000 in number, killed neere upon 600 of them, tooke abundance of armes and ammunition from them, and brought 3 heads of their chiefe commanders to Dublin. Whereunto is added a letter sent from the Right Honourable Earle of Ormond and Offory, to his much honoured uncle, Sir Robert Poyntz, shewing the true estate of the Kingdome of Ireland at this present, received June 21. 1642. Also an order of both Houses of Parliament, whereby Captaine Burrell, Thomas Lloyd, Gentleman, Iohn Smith, and Francis Dowet of London, gentleman, are appointed and approved of, to be commissaries to inroll and value the horse and armes, to be raised according to the propositions. Iohn Browne Cleric. Parliament.</title>
+                  <author>Smith, Samuel, Waggon master.</author>
+                  <author>Ormonde, James Butler, Duke of, 1610-1688.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Iohn Wright,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Laus Deo" (p. 1-3) signed: Samuell Smith.</note>
+                  <note>At head of t.p.: Iune the 24. 1642.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ireland --  History --  Rebellion of 1641 --  Sources --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156786:1" rendition="simple:additions"/>
+            <p>
+               <hi>Iune the</hi> 24. 1642.</p>
+            <p>The Laſt Ioyfull newes from <hi>Ireland.</hi>
+            </p>
+            <p>Wherein is Related, A moſt famous and victorious Battell between the Proteſtants and the Rebels, at <hi>Kilruſh</hi> in the County of <hi>Kildare:</hi> At which place the Engliſh with 3000 foot and Horſe, valiantly ſet upon the Enemies, being 12000 in Number, killed neere upon 600 of them, tooke abun<g ref="char:EOLhyphen"/>dance of Armes and Ammunition from them, and brought 3 heads of their Chiefe Comman<g ref="char:EOLhyphen"/>ders to <hi>Dublin.</hi>
+            </p>
+            <p>Whereunto is added a Letter ſent from the Right Honourable Earle of <hi>Ormond</hi> and <hi>Oſſory,</hi> to his much Honoured Uncle, Sir <hi>Robert Poyntz,</hi>
+            </p>
+            <p>Shewing the true eſtate of the Kingdome of <hi>Ireland</hi> at this preſent, Received <hi>June</hi> 21. 1642.</p>
+            <p>Alſo an Order of both Houſes of Parliament, whereby Captaine <hi>Burrell, Thomas Lloyd, Gentleman, Iohn Smith,</hi> and <hi>Francis Douet</hi> of London, Gentleman, are appointed and approved of, to be Commiſſa<g ref="char:EOLhyphen"/>ries, to inroll and value the Horſe and Armes, to be raiſed according to the Propoſitions.</p>
+            <p>Iohn Browne Cleric. Parliament.</p>
+            <p>London Printed for John Wright. 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:156786:2"/>
+            <pb n="1" facs="tcp:156786:2"/>
+            <opener>LA<g ref="char:V">Ʋ</g>S DEO. <dateline>From DUBLIN <date>the ſeventeenth <hi>of</hi> JUNE, 1642.</date>
+               </dateline>
+               <lb/>
+               <salute>Mr. <hi>Carſwell;</hi>
+               </salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">M</seg>Y kind love unto you remembred, hoping in God of your good health, as I was at preſent thanks be to God for it: your let<g ref="char:EOLhyphen"/>ter dated the tenth of <hi>May</hi> I have received, and of the 29 of <hi>March,</hi> ſin<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e which time I have not received any from my Father, and your ſelfe, fearing two Letters are miſcarried which you ſent by Poſt. As for the ſtate and condition of this King<g ref="char:EOLhyphen"/>dome it is very troubleſome as yet, and the wars are like to hold long, in regard the Rebels will never ſtand long to Battell, but flye to the Mountaines, Bogs, and Woods, we having not men ſufficient to meet them in ſeverall places, and to compaſſe them in, and to leave Garriſons in every Towne of note. For my part I doe continue in Sir <hi>Charles Cootes</hi> Regiment, as Waggon Maſter to the Regiment. And w<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ereas my Father wri<g ref="char:EOLhyphen"/>teth for me to come over, I cannot well get off as yet, and if I ſhould ſeeke to get off, I ſhould never get my pay which is due to me, having received but 50 ſhillings this eight moneths, but I am promis'd to receive part of it as ſoone as money co<g ref="char:cmbAbbrStroke">̄</g>meth over: buſineſſe not agree<g ref="char:EOLhyphen"/>ing
+<pb n="2" facs="tcp:156786:3"/>well with the Parliament of <hi>England,</hi> is a great hin<g ref="char:EOLhyphen"/>drance to the proceedings here in <hi>Ireland,</hi> and a diſcou<g ref="char:EOLhyphen"/>raging of the Souldiers wanting their pay. I believe I ſhall hardly get <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eave to come over as yet, in regard they want Engliſhmen to be guides to the Army. I am Gar<g ref="char:EOLhyphen"/>riſon'd at the <hi>Na<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s.</hi> I have beene in the Country for ſix or ſeven weekes together, where the Lord hath proſpe<g ref="char:EOLhyphen"/>red us in all our proceedings: the greateſt number of the Rebels that I did ſee, was at a place called <hi>Kilruſh,</hi> in the County of <hi>Kildare,</hi> to the number of 12000. of them, we having but 3000. Horſe and Foot, beſides they ha<g ref="char:EOLhyphen"/>ving an infinite number which lay behind the Hill, ly<g ref="char:EOLhyphen"/>ing upon advantage to divide the ſpoyle, thinking to have had the victory of us, crying and ſhouting, victo<g ref="char:EOLhyphen"/>ry, victory, before they had obtained it. It pleaſed God at very ſight of our men being couragious (although they had the Hill and Wind of us) our Commanders marching up towards them daunted them: and at two or three ſhots at each other, the Rebels began to retreate and flye, and to ſeparate themſelves, and flye over Bogs and Hills, our Horſe purſuing them, many of them were ſlaine in an houre and a halfe ſpace, we killed neere up<g ref="char:EOLhyphen"/>on 600, of them, and tooke aboundance of Armes and Ammunition from them, and brought three heads of their chiefe Commanders to <hi>Dublin.</hi> Thus Gods won<g ref="char:EOLhyphen"/>derfull providence in delivering us from the hands of our enemies, we having had but foure or five men ſlain at that Battel; many conflicts we have had with them ſince, and ſtill we had good ſucceſſe thanks be to God for it. I make no queſtion but you have heard of the loſſe of our Colonell Sir <hi>Charles Coote,</hi> that Noble Comman<g ref="char:EOLhyphen"/>der, who by accident of my Lord <hi>Burlaces</hi> troopes, was
+<pb n="3" facs="tcp:156786:3"/>ſhot at <hi>Trime</hi> in purſuing the Rebels there, who came to take <hi>Trim</hi> after he had recovered it from them, he having but 150. men, diſcomfited 3000. of them, the loſſe of that man is much lamented among us all, and eſpecially true hearted Chriſtians, for God did proſper and bleſſe all his proceedings. I am ſure I have loſt the beſt Maſter in <hi>Ireland,</hi> if he had lived he had done much good for them that belonged to him, and other people that were robbed, thouſands will miſſe him: there was no man in <hi>Ireland</hi> did terrifie the Rebels ſo much as he, and if it had pleaſed God to have ſpared his life, he had quickly ſub<g ref="char:EOLhyphen"/>dued the<g ref="char:cmbAbbrStroke">̄</g>, the very name of him was a terror to them: the Earle of <hi>Kildare</hi> hath Sir <hi>Charles Cootes</hi> Regiment; how he will proceed againſt his Countrymen I know not as yet, I pray God ſend my Lord Lieutenant ſafe over, for we want him to ſettle buſineſſes here; ſince my Colonels death things goe on but ſlowly.</p>
+            <p>I pray God bleſſe and proſper the Parliament in their proceedings, and that the King and they might a<g ref="char:EOLhyphen"/>gree, both for the good of the Church and Common-Weale.</p>
+            <closer>
+               <signed>Yours <hi>Samuell Smith.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="4" facs="tcp:156786:4"/>
+            <head>A Letter ſent out of Ireland, from the Right Honourable the Earle of <hi>Ormond</hi> and <hi>Oſſory,</hi> to his much Honoured Uncle, Sir <hi>Robert Poyntz,</hi>
+            </head>
+            <head type="sub">Shewing the true eſtate of the Kingdome of Ire<g ref="char:EOLhyphen"/>land at this preſent time, and delivered to his Un<g ref="char:EOLhyphen"/>cle here the 21 of Iune, 1642.</head>
+            <p>THe laſt Letter that I received from you was of the 7 of Aprill, by one <hi>Veele,</hi> to whom I ſhall be ve<g ref="char:EOLhyphen"/>ry ready to give my aſſiſtance towards his preferment, when I have rid my ſelfe of a few former ingagements. We are now in ſo good condition for matter of men, that I know it will be wondred that wee doe no more with them, but when it ſhall bee conſidered what men without money, Meat or Cloathes, are able to doe, I hope we ſhall not be taxed with ſloth, having by many winter, and uncomfortable Journeyes, manifeſted our unwillingneſſe to lye ſtill; it is true that our want of money, was then as great as now, but then the Hagards Barnes, and Houſes were full of all manner of Proviſi<g ref="char:EOLhyphen"/>on, which now betwixt us and the Rebels are ſo waſted that the moſt fertill Countrey affords nothing but pe<g ref="char:EOLhyphen"/>nary and deſolation, and the booty that heretofore gave edge to the ſouldiers, and made them endure iude<g ref="char:EOLhyphen"/>fatigably all manner of labour, is for a great circuit a<g ref="char:EOLhyphen"/>bout us, either already taken by our men, or removed into inacceſſable places by the Rebels, nor have wee carriage (if there were plenty o<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Victuall in the ſtore) to convey it with us, forth of thoſe limits already wa<g ref="char:EOLhyphen"/>ſted,
+<pb n="5" facs="tcp:156786:4"/>if we march in ſuch numbers as to conſiderable ſervice, and on the otherſide if we lye ſtill, and eat<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> up<g ref="char:EOLhyphen"/>on the Magazin, we ſhall very ſuddenly waſte it, ſo that unleſſe there be a ſpeedy ſupply of at leaſt victuall, and carriages, this army raiſed at ſo great charge to that Kingdome, will be forced to diſſolve or ruine of it ſelf. I have given you this ſhort, and true accompt of the ſtate we are in, becauſe I hope you are at <hi>London,</hi> where you may acquaint ſuch of your friends as are of the <hi>Par<g ref="char:EOLhyphen"/>liament</hi> with it, as likewiſe that you might be able to ſay ſomething in my excuſe, in caſe the blame of this dan<g ref="char:EOLhyphen"/>gerous loſſe of time ſhould be laid on me; for th ugh all this bee much fullier repreſented to the Commiſſio<g ref="char:EOLhyphen"/>ners, appointed for the management of this War, from the Lords Iuſtices, and Councell, yet many may be apt to cenſure mee, that will not be called to the reading of that.</p>
+            <p>When I know you are at <hi>London,</hi> you ſhall heare often, and more particularly from me; on Munday next I take a journey to <hi>Conaught,</hi> where I will endeavor to doe ſome ſervice before our proviſion he quite gone, from thence you ſhall heare from me, in the meane time I reſt.</p>
+            <closer>
+               <dateline>Dublin, <date>the 10 of Iune, 1642.</date>
+               </dateline>
+               <signed>Your moſt affectionate Nephew and Servant <hi>Ormond Oſſory.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="Parliamentary_order">
+            <pb n="6" facs="tcp:156786:5"/>
+            <opener>
+               <dateline>
+                  <date>Die Jovis, 16 Junii, 1642.</date>
+               </dateline>
+            </opener>
+            <p>ORdered by the Lords and Commons in Parlia<g ref="char:EOLhyphen"/>ment aſſembled, That Captain <hi>Burrell, Thomas Lloyd</hi> Gentleman, <hi>Iohn Smith,</hi> and <hi>Francis Dowett</hi> of <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> Gentleman, are hereby appointed and approved of, to be Commiſſaries to inroll and value the Horſe and Arms to be raiſed according to the Propoſitions.</p>
+            <closer>
+               <signed>Joh. Brown, Cleric. Parliamen.</signed>
+            </closer>
+         </div>
+         <div type="document">
+            <opener>
+               <dateline>
+                  <date>Die Lunae, 20 Junii, 1642.</date>
+               </dateline>
+            </opener>
+            <p>THe Commiſſaries appointed for the inrolling and valuing of Horſe and Arms, according to the late Propoſitions (and the above Order) have reſolved to attend the ſaid Service without <hi>Moor gate,</hi> under the City-Wall; where they will be ready from Eight to Twelve every fore-noon, and from Two till Six every afternoon dayly, for the purpoſes afore ſaid, begin<g ref="char:EOLhyphen"/>ning on <hi>Tueſday</hi> the One and twentieth of this inſtant <hi>Iune,</hi> 1642.</p>
+            <closer>
+               <signed>
+                  <list>
+                     <item>Robert Burrell.</item>
+                     <item>Thomas Lloyd.</item>
+                     <item>Iohn Smith.</item>
+                     <item>Francis Dowett.</item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
